@@ -2,10 +2,11 @@ package com.vinit.pgm;
 
 /**
  * @author pahwa
+ *
  * 
-  array: [5, 1, 22, 25, 6, -1, 8, 10],
-  sequence: [4, 5, 1, 22, 25, 6, -1, 8, 10]
-
+ * array: [5, 1, 22, 25, 6, -1, 8, 10],
+ * sequence: [4, 5, 1, 22, 25, 6, -1, 8, 10]
+ * 
  */
 
 import java.util.ArrayList;
